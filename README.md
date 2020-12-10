@@ -5,4 +5,5 @@ Basically a small program that generates an RGB / Greyscaled image based on the 
 
 ### Milestones
 [ ] Read a soundfile and save its frequencies as an imagefile
+
 [ ] Read an imagefile and output it as a soundfile
