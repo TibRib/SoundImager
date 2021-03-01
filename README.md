@@ -15,7 +15,7 @@ We read the wave soundfile and convert is as a BMP image file
 ![WAV2BMP](http://drive.google.com/uc?export=view&id=1dZ4gwOlsTbUAaNQz4zRrv9uxQ0ea3nH0)
 
 We obtain this greyscale BMP image as a result, that represents our sound !
-![Result](http://drive.google.com/uc?export=view&id=106OgzkjF1VIV9dJ-VaGUbGA9vufXWxjb)
+![Result](http://drive.google.com/uc?export=view&id=1c-z5XQ1XAnHKt--tapsw84GGLxDLR4cb)
 
 We then read the freshly created BMP image and output it as a WAVE soundfile
 ![BMP2WAV](http://drive.google.com/uc?export=view&id=1c-KsVQOXqZVo7G1a-Hx8Tg22jpsGECKY)
