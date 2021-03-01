@@ -4,8 +4,9 @@
 Basically a small program that generates an RGB / Greyscaled image based on the values read from a soundfile.
 
 ## Milestones
-✔️ Read a WAV soundfile and convert is as a BMP image file
-✔️ Read a BMP imagefile and output it as a WAV sound file
+✔️ Read a WAV soundfile and convert is as a BMP image file.
+
+✔️ Read a BMP imagefile and output it as a WAV sound file.
 
 ## Let's try it out
 This is the sound file input : a plain 16 bits wave file: [Listen to it there 🔊](https://drive.google.com/file/d/1jTyiqbAVTWPcqqpqBmTR3PzEHyl-GvBJ/view?usp=sharing)
